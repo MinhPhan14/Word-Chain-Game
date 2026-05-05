@@ -1,5 +1,5 @@
-Download by pressing into Release!
-Tải xuống bằng cách nhấn vào nút Release!
+Download by pressing Releases!
+Tải xuống bằng cách nhấn vào nút Releases!
 WORD CHAIN GAME – README (TIẾNG VIỆT)
 I. GIỚI THIỆU
 
